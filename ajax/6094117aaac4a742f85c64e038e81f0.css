@@ -49,5 +49,5 @@ body{background-color:#fff;font-family:"Roboto",sans-serif;font-size:14px;font-w
 .content-text{font-size:14px;line-height:21px}
 .content-dropdown-container,.content-notify{display:block}
 .content-inputs-container{grid-template-columns:1fr}
-.content-password-input{width:300px}
+.content-password-input{width:335px}
 }
